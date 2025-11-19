@@ -1,0 +1,7 @@
+Flask
+Flasgger
+openai
+openai-agents
+python-dotenv
+pydantic
+Flask-Cors
